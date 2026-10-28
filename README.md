@@ -5,8 +5,6 @@
 Olá! Me chamo Maria Vitória, sou graduanda em **Engenharia de Computação na UNIFEI**
 
 <p align="left">
-  <a href="https://github.com/Vitoriagss?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/Vitoriagss?style=for-the-badge&logo=github&label=Seguidores&color=236ad3&labelColor=1155ba" alt="Seguidores no GitHub" /></a>
-  <a href="https://github.com/Vitoriagss?tab=repositories&sort=stargazers" target="_blank">
   <a href="https://www.linkedin.com/in/mariavitoriags" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Conecte-se comigo" /></a>
 </p>
 
