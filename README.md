@@ -1,10 +1,11 @@
-# 👩🏻‍💻 Maria Vitória
-
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Maria Vitória
+ 
 **`Engenharia de Computação | Software Developer`**
 
 Olá! Me chamo Maria Vitória, sou graduanda em **Engenharia de Computação na UNIFEI**
 
 <p align="left">
+  <a href="https://github.com/Vitoriagss?tab=repositories&sort=stargazers" target="_blank">
   <a href="https://www.linkedin.com/in/mariavitoriags" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="Conecte-se comigo" /></a>
 </p>
 
